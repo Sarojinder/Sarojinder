@@ -27,10 +27,6 @@ I build systems from the ground up, from <b>bare-metal firmware</b> to <b>CPU ar
 - Streaming pipeline design in Verilog
 - Focus on real-time signal processing
 
-### 🚗 AutoMatch AI
-- Full-stack ML system for vehicle recommendations
-- FastAPI + React + 500k+ training examples
-- Feature engineering + explainable outputs
 
 ---
 
