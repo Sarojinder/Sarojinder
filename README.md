@@ -65,7 +65,7 @@ I build systems from the ground up, from <b>bare-metal firmware</b> to <b>CPU ar
 ---
 
 ## 📫 Connect with me
-- LinkedIn: (your link)
+- LinkedIn: [(your link)](https://www.linkedin.com/in/sarojinder/)
 
 <!--
 **Sarojinder/Sarojinder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
