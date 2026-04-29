@@ -15,7 +15,7 @@ I build systems from the ground up, from <b>bare-metal firmware</b> to <b>CPU ar
 ### 🧠 32-bit CPU Design (VHDL)
 - Designed a multi-cycle CPU with datapath + control unit
 - Implemented full instruction execution (ALU, memory, branching)
-- Debugged timing using waveform simulation (ModelSim)
+- Debugged timing using waveform simulation
 
 ### 🤖 Embedded Robot Guidance System
 - Bare-metal system in HCS12 assembly
