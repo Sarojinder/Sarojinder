@@ -5,7 +5,7 @@ Computer Engineering student interested in <b>hardware development, embedded sys
 </p>
 
 <p align="center">
-I enjoy building and debugging systems across the hardware/software boundary — from <b>bare-metal firmware and sensor interfaces</b> to <b>digital logic, real-time processing, and hardware validation</b>.
+I enjoy building and debugging systems across the hardware/software boundary, from <b>bare-metal firmware and sensor interfaces</b> to <b>digital logic, real-time processing, and hardware validation</b>.
 </p>
 
 ---
