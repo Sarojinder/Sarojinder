@@ -9,117 +9,53 @@ I enjoy building and debugging systems across the hardware/software boundary, fr
 ## 🚀 Featured Projects
 
 ### 🎛️ FPGA DSP Pipeline
-
-- Designed a fixed-point DSP pipeline in Verilog with a **31-tap FIR low-pass filter, programmable gain, signed saturation, and sample-valid control**
-- Developed self-checking Verilog testbenches and an independent **Python golden-reference model**
-- Achieved exact RTL/reference agreement across **5,280 verification samples**
-- Demonstrated approximately **59.6 dB attenuation of a 12 kHz component** through simulation
-- Synthesized the design for a **Xilinx Artix-7** target using Vivado
-
-**Tech:** Verilog, Python, Vivado, XSim, DSP
-
----
+- Designed a fixed-point Verilog DSP pipeline with a **31-tap FIR filter, programmable gain, signed saturation, and sample-valid control**
+- Built self-checking testbenches and a **Python golden-reference model**
+- Achieved exact agreement across **5,280 verification samples**
+- Demonstrated approximately **59.6 dB attenuation at 12 kHz**
+- Synthesized for a **Xilinx Artix-7** target in Vivado
 
 ### 🧠 32-bit CPU Design & Verification
-
 - Designed a multi-cycle **32-bit processor** in VHDL
-- Implemented datapath, control logic, ALU, register file, program counter, instruction memory, and reset logic
+- Implemented datapath, control logic, ALU, registers, program counter, and memory
 - Developed **21 instruction-level verification tests**
-- Debugged datapath and control behaviour through ModelSim waveform analysis
-
-**Tech:** VHDL, Quartus, ModelSim, Digital Logic, Computer Architecture
-
----
+- Debugged control and datapath behaviour using ModelSim waveforms
 
 ### 🤖 Bare-Metal Robot Guidance System
-
-- Developed a bare-metal embedded control system in **HCS12 Assembly**
-- Interfaced optical sensors using ADC measurements for real-time feedback
-- Implemented motor control using GPIO, hardware timers, and an **8-state finite-state machine**
-- Debugged sensor thresholds, timing, and control behaviour through physical hardware testing
-
-**Tech:** HCS12 Assembly, ADC, GPIO, Hardware Timers, Sensors, Motor Control
-
----
+- Developed a bare-metal control system in **HCS12 Assembly**
+- Interfaced optical sensors using ADC measurements
+- Implemented motor control using GPIO, hardware timers, and an **8-state FSM**
+- Debugged sensor, timing, and control behaviour through physical hardware testing
 
 ### 🚗 AutoMatch AI
-
-- Developed a vehicle recommendation platform using **Python, FastAPI, and React**
-- Built a processing pipeline around **19,622 Canadian vehicle listings**
-- Trained and evaluated a machine-learning ranking model using **510,172 preference-vehicle examples**
+- Developed a vehicle recommendation platform using **Python and FastAPI**
+- Processed **19,622 Canadian vehicle listings**
+- Trained a ranking model on **510,172 preference-vehicle examples**
 - Achieved an **R² of 0.905**
-- Implemented **26 automated tests** covering application logic, data handling, and recommendation behaviour
-
-**Tech:** Python, FastAPI, React, scikit-learn, Pandas, NumPy
+- Implemented **26 automated tests**
 
 ---
 
 ## 🔧 Technical Skills
 
-### Programming & Hardware Description
-
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge)
-![Verilog](https://img.shields.io/badge/Verilog-orange?style=for-the-badge)
-![VHDL](https://img.shields.io/badge/VHDL-blue?style=for-the-badge)
-![Assembly](https://img.shields.io/badge/Assembly-red?style=for-the-badge)
-### Embedded & Hardware
+![MATLAB](https://img.shields.io/badge/MATLAB-E16737?style=for-the-badge)
+![Verilog](https://img.shields.io/badge/Verilog-E34F26?style=for-the-badge)
+![VHDL](https://img.shields.io/badge/VHDL-00599C?style=for-the-badge)
+![Assembly](https://img.shields.io/badge/HCS12_Assembly-A80030?style=for-the-badge)
 
-- FPGA development and RTL design
-- Digital logic and computer architecture
-- Bare-metal embedded systems
-- ARM Cortex-M3 coursework
-- ADC, GPIO, hardware timers, sensors, and motor control
-- Hardware/software integration
-- Functional testing and hardware debugging
-- DSP and fixed-point signal processing
-
-### Systems & Networking
-
-- Linux
-- TCP/IP
-- C socket programming
-- Wireshark
-- Operating systems concepts
-- Git/GitHub
-- SSH
-
-### Tools
-
-- Vivado
-- XSim
-- Quartus
-- ModelSim
-- Xilinx ISE
-- Keil uVision
-- MATLAB
-- Simulink
-
-### Lab Equipment
-
-- Oscilloscope
-- Multimeter
-- Function generator
-- Bench power supply
+![Vivado](https://img.shields.io/badge/Vivado-E01F27?style=for-the-badge)
+![Quartus](https://img.shields.io/badge/Quartus-0071C5?style=for-the-badge)
+![ModelSim](https://img.shields.io/badge/ModelSim-555555?style=for-the-badge)
+![Keil](https://img.shields.io/badge/Keil_uVision-394049?style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## 🎯 Areas of Interest
+## 📫 Connect
 
-- Embedded Systems & Firmware
-- FPGA / RTL Design
-- ASIC & Digital Verification
-- Hardware Validation & Test
-- Computer Architecture
-- Semiconductor Engineering
-- DSP
-- Hardware/Software Integration
-
----
-
-## 📫 Connect With Me
-
-[LinkedIn](https://www.linkedin.com/in/sarojinder/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sarojinder_Sanghera-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarojinder/)
