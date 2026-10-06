@@ -44,13 +44,13 @@ I enjoy building and debugging systems across the hardware/software boundary, fr
 
 ### 🚗 AutoMatch AI
 
-- Developed a vehicle recommendation platform using **Python, FastAPI, React, and SQL**
+- Developed a vehicle recommendation platform using **Python, FastAPI, and React**
 - Built a processing pipeline around **19,622 Canadian vehicle listings**
 - Trained and evaluated a machine-learning ranking model using **510,172 preference-vehicle examples**
 - Achieved an **R² of 0.905**
 - Implemented **26 automated tests** covering application logic, data handling, and recommendation behaviour
 
-**Tech:** Python, FastAPI, React, SQL, scikit-learn, Pandas, NumPy
+**Tech:** Python, FastAPI, React, scikit-learn, Pandas, NumPy
 
 ---
 
@@ -58,7 +58,7 @@ I enjoy building and debugging systems across the hardware/software boundary, fr
 
 ### Programming & Hardware Description
 
-`C` `C++` `Python` `Java` `JavaScript` `SQL` `MATLAB` `Verilog` `VHDL` `HCS12 Assembly`
+`C` `C++` `Python` `Java` `JavaScript` `MATLAB` `Verilog` `VHDL` `HCS12 Assembly`
 
 ### Embedded & Hardware
 
@@ -83,7 +83,7 @@ I enjoy building and debugging systems across the hardware/software boundary, fr
 
 ### Tools
 
-`Vivado` `XSim` `Quartus` `ModelSim` `Xilinx ISE` `Keil uVision` `MATLAB` `Simulink` `CMake`
+`Vivado` `XSim` `Quartus` `ModelSim` `Xilinx ISE` `Keil uVision` `MATLAB` `Simulink`
 
 ### Lab Equipment
 
