@@ -62,20 +62,10 @@ I enjoy building and debugging systems across the hardware/software boundary, fr
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge)
 ![Verilog](https://img.shields.io/badge/Verilog-orange?style=for-the-badge)
 ![VHDL](https://img.shields.io/badge/VHDL-blue?style=for-the-badge)
 ![Assembly](https://img.shields.io/badge/Assembly-red?style=for-the-badge)
-
-### Development Tools & Platforms
-
-![Vivado](https://img.shields.io/badge/Vivado-red?style=for-the-badge)
-![Quartus](https://img.shields.io/badge/Quartus-blue?style=for-the-badge)
-![ModelSim](https://img.shields.io/badge/ModelSim-grey?style=for-the-badge)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
-
 ### Embedded & Hardware
 
 - FPGA development and RTL design
