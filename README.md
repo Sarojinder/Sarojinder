@@ -53,9 +53,3 @@ I enjoy building and debugging systems across the hardware/software boundary, fr
 ![Keil](https://img.shields.io/badge/Keil_uVision-394049?style=for-the-badge)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## 📫 Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sarojinder_Sanghera-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarojinder/)
