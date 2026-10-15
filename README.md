@@ -27,13 +27,6 @@ I enjoy building and debugging systems across the hardware/software boundary, fr
 - Implemented motor control using GPIO, hardware timers, and an **8-state FSM**
 - Debugged sensor, timing, and control behaviour through physical hardware testing
 
-### 🚗 AutoMatch AI
-- Developed a vehicle recommendation platform using **Python and FastAPI**
-- Processed **19,622 Canadian vehicle listings**
-- Trained a ranking model on **510,172 preference-vehicle examples**
-- Achieved an **R² of 0.905**
-- Implemented **26 automated tests**
-
 ---
 
 ## 🔧 Technical Skills
